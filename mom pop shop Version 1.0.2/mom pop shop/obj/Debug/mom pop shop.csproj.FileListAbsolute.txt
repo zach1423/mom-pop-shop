@@ -1,0 +1,48 @@
+C:\Users\burto\source\repos\mom pop shop\mom pop shop\bin\Debug\mom pop shop.exe.config
+C:\Users\burto\source\repos\mom pop shop\mom pop shop\bin\Debug\mom pop shop.exe
+C:\Users\burto\source\repos\mom pop shop\mom pop shop\bin\Debug\mom pop shop.pdb
+C:\Users\burto\source\repos\mom pop shop\mom pop shop\obj\Debug\mom pop shop.csprojAssemblyReference.cache
+C:\Users\burto\source\repos\mom pop shop\mom pop shop\obj\Debug\mom_pop_shop.Login.resources
+C:\Users\burto\source\repos\mom pop shop\mom pop shop\obj\Debug\mom_pop_shop.Properties.Resources.resources
+C:\Users\burto\source\repos\mom pop shop\mom pop shop\obj\Debug\mom pop shop.csproj.GenerateResource.cache
+C:\Users\burto\source\repos\mom pop shop\mom pop shop\obj\Debug\mom pop shop.csproj.CoreCompileInputs.cache
+C:\Users\burto\source\repos\mom pop shop\mom pop shop\obj\Debug\mom pop shop.exe
+C:\Users\burto\source\repos\mom pop shop\mom pop shop\obj\Debug\mom pop shop.pdb
+C:\Users\burto\source\repos\mom pop shop\mom pop shop\obj\Debug\mom_pop_shop.Main_Screen.resources
+C:\Users\burto\source\repos\mom pop shop\mom pop shop\bin\Debug\MomAndPopDatabase.mdb
+C:\Users\tburto21\Desktop\mom pop shop\mom pop shop\bin\Debug\MomAndPopDatabase.mdb
+C:\Users\tburto21\Desktop\mom pop shop\mom pop shop\bin\Debug\mom pop shop.exe.config
+C:\Users\tburto21\Desktop\mom pop shop\mom pop shop\bin\Debug\mom pop shop.exe
+C:\Users\tburto21\Desktop\mom pop shop\mom pop shop\bin\Debug\mom pop shop.pdb
+C:\Users\tburto21\Desktop\mom pop shop\mom pop shop\obj\Debug\mom pop shop.csprojAssemblyReference.cache
+C:\Users\tburto21\Desktop\mom pop shop\mom pop shop\obj\Debug\mom_pop_shop.Login.resources
+C:\Users\tburto21\Desktop\mom pop shop\mom pop shop\obj\Debug\mom_pop_shop.Main_Screen.resources
+C:\Users\tburto21\Desktop\mom pop shop\mom pop shop\obj\Debug\mom_pop_shop.Properties.Resources.resources
+C:\Users\tburto21\Desktop\mom pop shop\mom pop shop\obj\Debug\mom pop shop.csproj.GenerateResource.cache
+C:\Users\tburto21\Desktop\mom pop shop\mom pop shop\obj\Debug\mom pop shop.csproj.CoreCompileInputs.cache
+C:\Users\tburto21\Desktop\mom pop shop\mom pop shop\obj\Debug\mom pop shop.exe
+C:\Users\tburto21\Desktop\mom pop shop\mom pop shop\obj\Debug\mom pop shop.pdb
+C:\Users\burto\Desktop\mom pop shop Version 1.0.1\mom pop shop\bin\Debug\MomAndPopDatabase.mdb
+C:\Users\burto\Desktop\mom pop shop Version 1.0.1\mom pop shop\bin\Debug\mom pop shop.exe.config
+C:\Users\burto\Desktop\mom pop shop Version 1.0.1\mom pop shop\bin\Debug\mom pop shop.exe
+C:\Users\burto\Desktop\mom pop shop Version 1.0.1\mom pop shop\bin\Debug\mom pop shop.pdb
+C:\Users\burto\Desktop\mom pop shop Version 1.0.1\mom pop shop\obj\Debug\mom pop shop.csprojAssemblyReference.cache
+C:\Users\burto\Desktop\mom pop shop Version 1.0.1\mom pop shop\obj\Debug\mom_pop_shop.Login.resources
+C:\Users\burto\Desktop\mom pop shop Version 1.0.1\mom pop shop\obj\Debug\mom_pop_shop.Main_Screen.resources
+C:\Users\burto\Desktop\mom pop shop Version 1.0.1\mom pop shop\obj\Debug\mom_pop_shop.Properties.Resources.resources
+C:\Users\burto\Desktop\mom pop shop Version 1.0.1\mom pop shop\obj\Debug\mom pop shop.csproj.GenerateResource.cache
+C:\Users\burto\Desktop\mom pop shop Version 1.0.1\mom pop shop\obj\Debug\mom pop shop.csproj.CoreCompileInputs.cache
+C:\Users\burto\Desktop\mom pop shop Version 1.0.1\mom pop shop\obj\Debug\mom pop shop.exe
+C:\Users\burto\Desktop\mom pop shop Version 1.0.1\mom pop shop\obj\Debug\mom pop shop.pdb
+D:\Users\burto\Music\mom pop shop Version 1.0.2\mom pop shop\bin\Debug\MomAndPopDatabase.mdb
+D:\Users\burto\Music\mom pop shop Version 1.0.2\mom pop shop\bin\Debug\mom pop shop.exe.config
+D:\Users\burto\Music\mom pop shop Version 1.0.2\mom pop shop\bin\Debug\mom pop shop.exe
+D:\Users\burto\Music\mom pop shop Version 1.0.2\mom pop shop\bin\Debug\mom pop shop.pdb
+D:\Users\burto\Music\mom pop shop Version 1.0.2\mom pop shop\obj\Debug\mom pop shop.csprojAssemblyReference.cache
+D:\Users\burto\Music\mom pop shop Version 1.0.2\mom pop shop\obj\Debug\mom_pop_shop.Login.resources
+D:\Users\burto\Music\mom pop shop Version 1.0.2\mom pop shop\obj\Debug\mom_pop_shop.Main_Screen.resources
+D:\Users\burto\Music\mom pop shop Version 1.0.2\mom pop shop\obj\Debug\mom_pop_shop.Properties.Resources.resources
+D:\Users\burto\Music\mom pop shop Version 1.0.2\mom pop shop\obj\Debug\mom pop shop.csproj.GenerateResource.cache
+D:\Users\burto\Music\mom pop shop Version 1.0.2\mom pop shop\obj\Debug\mom pop shop.csproj.CoreCompileInputs.cache
+D:\Users\burto\Music\mom pop shop Version 1.0.2\mom pop shop\obj\Debug\mom pop shop.exe
+D:\Users\burto\Music\mom pop shop Version 1.0.2\mom pop shop\obj\Debug\mom pop shop.pdb
